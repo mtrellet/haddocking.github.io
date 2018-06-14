@@ -11,10 +11,6 @@
     position: Postdoctoral Researcher
     avatar: /images/people/Adrien.jpg
 
--   name: Irina Moreira 
-    position: Postdoctoral Researcher
-    avatar: /images/people/Moreira.jpg
-
 -   name: Joerg Schaarschmidt
     position: Postdoctoral Researcher
     avatar: /images/people/Jorg.jpg
@@ -23,9 +19,17 @@
     position: Postdoctoral Researcher
     avatar: /images/people/Mikael.jpg
 
--   name: Cristina Paissoni
-    position: visiting Postdoctoral Researcher
-    avatar: /images/people/Cristina.jpg
+-   name: Brian Jimenez Garcia
+    position: Postdoctoral Researcher
+    avatar: /images/people/Brian.png
+
+-   name: Attilio Vargiu
+    position: Postdoctoral Researcher
+    avatar: /images/people/Attilio.png
+
+-   name: Rodrigo Vargas Honorato
+    position: Visiting Researcher
+    avatar: /images/people/Rodrigo.jpg
 
 -   name: Cunliang Geng
     position: Ph.D Candidate
@@ -43,31 +47,22 @@
     position: Ph.D Candidate
     avatar: /images/people/Francesco.jpg
 
--   name: Sofia Rosback
-    position: M.Sc Student
-    avatar: /images/people/Sofia.jpg
-
--   name: Adrian Gondra Gogorza
-    position: M.Sc Student
-    avatar: /images/people/Adrian.jpg
-
--   name: Leander Goldbach
-    position: M.Sc Student
-    avatar: /images/people/Leander.png
-
--   name: Bastiaan de Graaf
-    position: M.Sc Student
-    avatar: /images/people/Bastiaan.jpg
-
--   name: Rosanna Denis
-    position: M.Sc Student
-    avatar: /images/people/Rosanna.jpg
-
--   name: Floor van der Valk
-    position: M.Sc Student
-    avatar: /images/people/Floor-Valk.png
+-   name: Andrea Basciu
+    position: Visiting Ph.D Candidate
+    avatar: /images/people/Andrea-Basciu.png
 
 -   name: Zhengyue Zhang
     position: M.Sc Student
     avatar: /images/people/Zhengyue.jpg
 
+-   name: Charlotte van Noort
+    position: M.Sc Student
+    avatar: /images/people/Charlotte.jpg
+
+-   name: Angelina Claij
+    position: M.Sc Student
+    avatar: /images/people/Angelina.jpg
+
+-   name: Daan Sybrandi
+    position: M.Sc Student
+    avatar: /images/people/Daan.png

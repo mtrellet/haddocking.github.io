@@ -19,6 +19,14 @@
     current: 'Oregon State University, Corvallis OR, USA'
     status: visiting-professor
 
+-   name: Cristina Paissoni
+    status: visiting postdoc
+
+-   name: Irina Moreira 
+    url:  http://www.moreiralab.com/
+    current: 'Universidade de Coimbrae, Portugal'
+    status: postdoc
+
 -   name: Anna Vangone
     status: postdoc
 
@@ -138,7 +146,11 @@
 
 -   name: Venkata Krishnan Ramaswamy
     current: 'Cagliari University, Italy'
-    position: visiting-phd
+    status: visiting-phd
+
+-   name: Miguel Pedrouzo
+    current: 'University of Valencia, Spain'
+    status: visiting-phd
 
 -   name: Siddarth Narasimhan
     url: http://www.uu.nl/nmr
@@ -197,6 +209,32 @@
     status: student
 
 -   name: Mick Walter
-    position: M.Sc Student
     status: student
+
+-   name: Floor van der Valk
+    status: student
+
+-   name: Leander Goldbach
+    current: M.Sc Student UU
+    status: student
+
+-   name: Bastiaan de Graaf
+    current: M.Sc Student UU
+    status: student
+
+-   name: Sofia Rosback
+    current: M.Sc Student UU
+    status: student
+
+-   name: Adrian Gondra Gogorza
+    current: M.Sc Student UU
+    status: student
+
+-   name: Rosanna Denis
+    status: student
+
+-   name: Carlos Barreto
+    current: 'University of Coimbra, Portugal'
+    status: student
+
 

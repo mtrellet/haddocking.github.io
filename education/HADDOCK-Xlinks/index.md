@@ -362,7 +362,7 @@ assi (segid A and resid 54  and name CA) (segid B and resid 179 and name CA)  26
 </details>
 
 <br>
-__Note:__ _Under Linux (or OSX), this file could be generated automatically from the `restraints_filtered.txt`
+__Note:__ Under Linux (or OSX), this file could be generated automatically from the `restraints_filtered.txt`
  file provided with the data for this tutorial by giving the following command (one line) in a terminal window:_
 
 <a class="prompt prompt-linux">
@@ -665,7 +665,7 @@ generated model (the best scoring model)._
 The ranking of the clusters is based on the average score of the top 4 members of each cluster. The score is calculated 
 as:
 <pre>
-      HADDOCKscore = 1.0 * Evdw + 0.2 * Eelec + 1.0 * Edesol + 1.0 * Eair
+      HADDOCKscore = 1.0 * Evdw + 0.2 * Eelec + 1.0 * Edesol + 0.1 * Eair
 </pre>
 where Evdw is the intermolecular van der Waals energy, Eelec the intermolecular electrostatic energy, Edesol represents 
 an empirical desolvation energy term adapted from Fernandez-Recio *et al.* J. Mol. Biol. 2004, and Eair the AIR energy. 
@@ -922,7 +922,6 @@ Does the docking using only the cross-links as distance restraints generate any 
 </figure>
 <br>
 No single cluster matches the crystal structure in this case.
-</a>
 </details>
 
 <br>
